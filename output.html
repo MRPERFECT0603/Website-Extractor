@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Design Language Demo</title>
+  <style>
+    :root {
+      --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      --font-serif: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+      --font-cursive: "Pacifico", cursive;
+
+      --color-primary: rgb(37, 99, 235);
+      --color-white: rgb(255, 255, 255);
+      --color-black: rgb(0, 0, 0);
+      --color-gray: rgb(75, 85, 99);
+      --color-accent: rgb(234, 179, 8);
+      --color-bg: rgb(243, 244, 246);
+
+      --fs-sm: 14px;
+      --fs-base: 16px;
+      --fs-md: 18px;
+      --fs-lg: 20px;
+      --fs-xlg: 30px;
+      --fs-xl: 36px;
+      --fs-xxl: 48px;
+    }
+
+    body {
+      font-family: var(--font-sans);
+      background: var(--color-bg);
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: var(--color-gray);
+    }
+
+    header {
+      background: var(--color-primary);
+      color: var(--color-white);
+      font-family: var(--font-cursive);
+      font-size: var(--fs-xxl);
+      padding: 2rem;
+      text-align: center;
+    }
+
+    h2 {
+      font-family: var(--font-serif);
+      font-size: var(--fs-xl);
+      text-align: center;
+      margin-top: 1.5rem;
+      color: var(--color-black);
+    }
+
+    p {
+      max-width: 600px;
+      margin: 1rem auto;
+      text-align: center;
+      font-size: var(--fs-md);
+    }
+
+    .btn {
+      display: inline-block;
+      background: var(--color-accent);
+      color: var(--color-black);
+      font-size: var(--fs-lg);
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      margin: 1.5rem auto;
+      transition: all 0.3s ease;
+    }
+
+    .btn:hover {
+      background: var(--color-primary);
+      color: var(--color-white);
+    }
+
+    footer {
+      background: var(--color-black);
+      color: var(--color-white);
+      font-size: var(--fs-sm);
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    My Design Language ✨
+  </header>
+
+  <main>
+    <h2>Welcome to the Demo</h2>
+    <p>
+      This simple page demonstrates a consistent design language extracted from our system:
+      shared fonts, reusable colors, and font sizes applied across elements.
+    </p>
+    <div style="text-align:center;">
+      <a href="#" class="btn">Get Started</a>
+    </div>
+  </main>
+
+  <footer>
+    &copy; 2025 Design System Demo
+  </footer>
+</body>
+</html>

@@ -1,0 +1,1626 @@
+[
+  {
+    "tag": "html",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "head",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "meta",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "link",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "meta",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "title",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "script",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "link",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "body",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(202, 220, 252)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "header",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(255, 255, 255)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h1",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(37, 99, 235)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "nav",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "ul",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "ul",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "button",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgb(37, 99, 235)"
+  },
+  {
+    "tag": "button",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(202, 220, 252)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h1",
+    "fontFamily": "ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+    "fontSize": "48px",
+    "color": "rgb(37, 99, 235)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "span",
+    "fontFamily": "Pacifico, cursive",
+    "fontSize": "48px",
+    "color": "rgb(37, 99, 235)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "18px",
+    "color": "rgb(75, 85, 99)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "a",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgb(37, 99, 235)"
+  },
+  {
+    "tag": "a",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgb(75, 85, 99)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "img",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "img",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "section",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h2",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "36px",
+    "color": "rgb(37, 99, 235)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "span",
+    "fontFamily": "ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+    "fontSize": "36px",
+    "color": "rgb(37, 99, 235)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(254, 249, 195)"
+  },
+  {
+    "tag": "h3",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(133, 77, 14)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "48px",
+    "color": "rgb(234, 179, 8)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "img",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "48px",
+    "color": "rgb(234, 179, 8)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(219, 234, 254)"
+  },
+  {
+    "tag": "h3",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(30, 64, 175)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "48px",
+    "color": "rgb(234, 179, 8)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "img",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "48px",
+    "color": "rgb(234, 179, 8)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(252, 231, 243)"
+  },
+  {
+    "tag": "h3",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(157, 23, 77)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "48px",
+    "color": "rgb(234, 179, 8)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "img",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "48px",
+    "color": "rgb(234, 179, 8)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(220, 252, 231)"
+  },
+  {
+    "tag": "h3",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(22, 101, 52)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "48px",
+    "color": "rgb(234, 179, 8)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "img",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "48px",
+    "color": "rgb(234, 179, 8)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "section",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h2",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "36px",
+    "color": "rgb(37, 99, 235)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "img",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "section",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h2",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "48px",
+    "color": "rgb(30, 64, 175)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(255, 255, 255)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(29, 78, 216)",
+    "backgroundColor": "rgb(219, 234, 254)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h4",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "18px",
+    "color": "rgb(30, 64, 175)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(107, 114, 128)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(255, 255, 255)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(29, 78, 216)",
+    "backgroundColor": "rgb(219, 234, 254)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h4",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "18px",
+    "color": "rgb(30, 64, 175)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(107, 114, 128)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(255, 255, 255)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(29, 78, 216)",
+    "backgroundColor": "rgb(219, 234, 254)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h4",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "18px",
+    "color": "rgb(30, 64, 175)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(107, 114, 128)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(255, 255, 255)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(29, 78, 216)",
+    "backgroundColor": "rgb(219, 234, 254)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h4",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "18px",
+    "color": "rgb(30, 64, 175)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(107, 114, 128)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(255, 255, 255)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(29, 78, 216)",
+    "backgroundColor": "rgb(219, 234, 254)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h4",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "18px",
+    "color": "rgb(30, 64, 175)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(107, 114, 128)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(255, 255, 255)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(29, 78, 216)",
+    "backgroundColor": "rgb(219, 234, 254)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h4",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "18px",
+    "color": "rgb(30, 64, 175)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(107, 114, 128)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "svg",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "path",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(250, 204, 21)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "section",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(37, 99, 235)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "img",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "20px",
+    "color": "rgb(37, 99, 235)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h2",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "30px",
+    "color": "rgb(37, 99, 235)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "section",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h2",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "36px",
+    "color": "rgb(37, 99, 235)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "16px",
+    "color": "rgb(75, 85, 99)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "a",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "18px",
+    "color": "rgb(255, 255, 255)",
+    "backgroundColor": "rgb(37, 99, 235)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgb(243, 244, 246)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "img",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h3",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(31, 41, 55)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "ul",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "a",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "a",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "a",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h3",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(31, 41, 55)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "ul",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "a",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "a",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "a",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "h3",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(31, 41, 55)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "ul",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "a",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "a",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "li",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "a",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(55, 65, 81)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "div",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(107, 114, 128)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "p",
+    "fontFamily": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "14px",
+    "color": "rgb(107, 114, 128)",
+    "backgroundColor": "rgba(0, 0, 0, 0)"
+  }
+]
