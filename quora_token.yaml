@@ -1,0 +1,91 @@
+type: initializr-project-feature-set
+
+defaults: # updated from Quora CSS
+  cx-color-primary: &cx-color-primary "#2e69ff"
+  cx-color-primary-accent: &cx-color-primary-accent "#ebf0ff"
+  cx-color-secondary: &cx-color-secondary "#282829"
+  cx-color-success: &cx-color-success "#2d9655"
+  cx-color-success-accent: &cx-color-success-accent "#e6f2eb"
+  cx-color-info: &cx-color-info "#195faa"
+  cx-color-info-accent: &cx-color-info-accent "#edf1f5"
+  cx-color-warning: &cx-color-warning "#f6be08"
+  cx-color-warning-accent: &cx-color-warning-accent "#f9f9ef"
+  cx-color-danger: &cx-color-danger "#b92b27"
+  cx-color-danger-accent: &cx-color-danger-accent "#fbf1ec"
+  cx-color-text: &cx-color-text "#282829"
+  cx-color-background: &cx-color-background "#f1f2f2"
+  cx-color-background-dark: &cx-color-background-dark "#181818"
+  cx-color-light: &cx-color-light "#f1f2f2"
+  cx-color-medium: &cx-color-medium "#d5d6d6"
+  cx-color-dark: &cx-color-dark "#282829"
+  cx-color-inverse: &cx-color-inverse "#ffffff"
+  cx-color-visual-focus: &cx-color-visual-focus "#4894fd"
+  cx-color-ghost: &cx-color-ghost "#f7f7f8"
+  cx-color-ghost-animation: &cx-color-ghost-animation "rgba(255, 255, 255, 0.2)"
+  cx-font-weight-light: &cx-font-weight-light "300"
+  cx-font-weight-normal: &cx-font-weight-normal "400"
+  cx-font-weight-semi: &cx-font-weight-semi "600"
+  cx-font-weight-bold: &cx-font-weight-bold "700"
+  btf-delay: &btf-delay "300ms"
+  cx-animation-duration: &cx-animation-duration "1s"
+  cx-buttons-border-radius: &cx-buttons-border-radius "2rem"
+  cx-buttons-border-width: &cx-buttons-border-width "3px"
+  cx-ghost-radius: &cx-ghost-radius "5px"
+  cx-page-width-max: &cx-page-width-max "1140px"
+  cx-popover-max-width: &cx-popover-max-width "280px"
+  cx-popover-min-width: &cx-popover-min-width "140px"
+  cx-spatial-base: &cx-spatial-base "0.5rem"
+  cx-spinner-animation-time: &cx-spinner-animation-time "1s"
+  cx-spinner-border-width: &cx-spinner-border-width "15px"
+  cx-spinner-primary-color: &cx-spinner-primary-color "var(--cx-color-primary)"
+  cx-spinner-radius: &cx-spinner-radius "120px"
+  cx-spinner-secondary-color: &cx-spinner-secondary-color "var(--cx-color-light)"
+  cx-spinner-size: &cx-spinner-size "40px"
+  cx-transition-duration: &cx-transition-duration "0.5s"
+  cx-visual-focus-width: &cx-visual-focus-width "0"
+
+features:
+  - id: ui-boilerplate
+    variablesMapping:
+      --cx-color-background: *cx-color-background
+      --cx-color-background-dark: *cx-color-background-dark
+      --cx-color-danger: *cx-color-danger
+      --cx-color-danger-accent: *cx-color-danger-accent
+      --cx-color-dark: *cx-color-dark
+      --cx-color-ghost: *cx-color-ghost
+      --cx-color-ghost-animation: *cx-color-ghost-animation
+      --cx-color-info: *cx-color-info
+      --cx-color-info-accent: *cx-color-info-accent
+      --cx-color-inverse: *cx-color-inverse
+      --cx-color-light: *cx-color-light
+      --cx-color-medium: *cx-color-medium
+      --cx-color-primary: *cx-color-primary
+      --cx-color-primary-accent: *cx-color-primary-accent
+      --cx-color-secondary: *cx-color-secondary
+      --cx-color-success: *cx-color-success
+      --cx-color-success-accent: *cx-color-success-accent
+      --cx-color-text: *cx-color-text
+      --cx-color-visual-focus: *cx-color-visual-focus
+      --cx-color-warning: *cx-color-warning
+      --cx-color-warning-accent: *cx-color-warning-accent
+      --cx-font-weight-bold: *cx-font-weight-bold
+      --cx-font-weight-light: *cx-font-weight-light
+      --cx-font-weight-normal: *cx-font-weight-normal
+      --cx-font-weight-semi: *cx-font-weight-semi
+      --btf-delay: *btf-delay
+      --cx-animation-duration: *cx-animation-duration
+      --cx-buttons-border-radius: *cx-buttons-border-radius
+      --cx-buttons-border-width: *cx-buttons-border-width
+      --cx-ghost-radius: *cx-ghost-radius
+      --cx-page-width-max: *cx-page-width-max
+      --cx-popover-max-width: *cx-popover-max-width
+      --cx-popover-min-width: *cx-popover-min-width
+      --cx-spatial-base: *cx-spatial-base
+      --cx-spinner-animation-time: *cx-spinner-animation-time
+      --cx-spinner-border-width: *cx-spinner-border-width
+      --cx-spinner-primary-color: *cx-spinner-primary-color
+      --cx-spinner-radius: *cx-spinner-radius
+      --cx-spinner-secondary-color: *cx-spinner-secondary-color
+      --cx-spinner-size: *cx-spinner-size
+      --cx-transition-duration: *cx-transition-duration
+      --cx-visual-focus-width: *cx-visual-focus-width

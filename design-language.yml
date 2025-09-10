@@ -1,0 +1,131 @@
+type: initializr-project-feature-set
+defaults:
+  cx-color-primary:
+    &cx-color-primary "#055f9f"
+  cx-color-primary-accent:
+    &cx-color-primary-accent "#055f9f"
+  cx-color-secondary:
+    &cx-color-secondary "#556b82"
+  cx-color-success:
+    &cx-color-success "#256f3a"
+  cx-color-success-accent:
+    &cx-color-success-accent "#256f3a"
+  cx-color-info:
+    &cx-color-info "#0064d8"
+  cx-color-info-accent:
+    &cx-color-info-accent "#0064d8"
+  cx-color-warning:
+    &cx-color-warning "#b44f00"
+  cx-color-warning-accent:
+    &cx-color-warning-accent "#b44f00"
+  cx-color-danger:
+    &cx-color-danger "#aa0808"
+  cx-color-danger-accent:
+    &cx-color-danger-accent "#aa0808"
+  cx-color-text:
+    &cx-color-text "#cccccc"
+  cx-color-background:
+    &cx-color-background "#f4f4f4"
+  cx-color-background-dark:
+    &cx-color-background-dark "#212738"
+  cx-color-light:
+    &cx-color-light "#cccccc"
+  cx-color-medium:
+    &cx-color-medium "#cccccc"
+  cx-color-dark:
+    &cx-color-dark "#cccccc"
+  cx-color-inverse:
+    &cx-color-inverse "#ffffff"
+  cx-color-visual-focus:
+    &cx-color-visual-focus "#cccccc"
+  cx-color-ghost:
+    &cx-color-ghost "#cccccc"
+  cx-color-ghost-animation:
+    '&cx-color-ghost-animation': rgba(255, 255, 255, 0.2)
+  cx-font-weight-light:
+    &cx-font-weight-light "300"
+  cx-font-weight-normal:
+    &cx-font-weight-normal "400"
+  cx-font-weight-semi:
+    &cx-font-weight-semi "600"
+  cx-font-weight-bold:
+    &cx-font-weight-bold "700"
+  btf-delay:
+    '&btf-delay': 300ms
+  cx-animation-duration:
+    '&cx-animation-duration': .15s
+  cx-buttons-border-radius:
+    '&cx-buttons-border-radius': 50%
+  cx-buttons-border-width:
+    &cx-buttons-border-width "#cccccc"
+  cx-ghost-radius:
+    &cx-ghost-radius "#cccccc"
+  cx-page-width-max:
+    &cx-page-width-max "#cccccc"
+  cx-popover-max-width:
+    &cx-popover-max-width "#cccccc"
+  cx-popover-min-width:
+    &cx-popover-min-width "#cccccc"
+  cx-spatial-base:
+    &cx-spatial-base "#cccccc"
+  cx-spinner-animation-time:
+    &cx-spinner-animation-time "#cccccc"
+  cx-spinner-border-width:
+    &cx-spinner-border-width "#cccccc"
+  cx-spinner-primary-color:
+    &cx-spinner-primary-color "#055f9f"
+  cx-spinner-radius:
+    &cx-spinner-radius "#cccccc"
+  cx-spinner-secondary-color:
+    &cx-spinner-secondary-color "#556b82"
+  cx-spinner-size:
+    &cx-spinner-size "#cccccc"
+  cx-transition-duration:
+    '&cx-transition-duration': 0.5s
+  cx-visual-focus-width:
+    &cx-visual-focus-width "#cccccc"
+features:
+  - id: ui-boilerplate
+    variablesMapping:
+      '--cx-color-primary': '*cx-color-primary'
+      '--cx-color-primary-accent': '*cx-color-primary-accent'
+      '--cx-color-secondary': '*cx-color-secondary'
+      '--cx-color-success': '*cx-color-success'
+      '--cx-color-success-accent': '*cx-color-success-accent'
+      '--cx-color-info': '*cx-color-info'
+      '--cx-color-info-accent': '*cx-color-info-accent'
+      '--cx-color-warning': '*cx-color-warning'
+      '--cx-color-warning-accent': '*cx-color-warning-accent'
+      '--cx-color-danger': '*cx-color-danger'
+      '--cx-color-danger-accent': '*cx-color-danger-accent'
+      '--cx-color-text': '*cx-color-text'
+      '--cx-color-background': '*cx-color-background'
+      '--cx-color-background-dark': '*cx-color-background-dark'
+      '--cx-color-light': '*cx-color-light'
+      '--cx-color-medium': '*cx-color-medium'
+      '--cx-color-dark': '*cx-color-dark'
+      '--cx-color-inverse': '*cx-color-inverse'
+      '--cx-color-visual-focus': '*cx-color-visual-focus'
+      '--cx-color-ghost': '*cx-color-ghost'
+      '--cx-color-ghost-animation': '*cx-color-ghost-animation'
+      '--cx-font-weight-light': '*cx-font-weight-light'
+      '--cx-font-weight-normal': '*cx-font-weight-normal'
+      '--cx-font-weight-semi': '*cx-font-weight-semi'
+      '--cx-font-weight-bold': '*cx-font-weight-bold'
+      '--btf-delay': '*btf-delay'
+      '--cx-animation-duration': '*cx-animation-duration'
+      '--cx-buttons-border-radius': '*cx-buttons-border-radius'
+      '--cx-buttons-border-width': '*cx-buttons-border-width'
+      '--cx-ghost-radius': '*cx-ghost-radius'
+      '--cx-page-width-max': '*cx-page-width-max'
+      '--cx-popover-max-width': '*cx-popover-max-width'
+      '--cx-popover-min-width': '*cx-popover-min-width'
+      '--cx-spatial-base': '*cx-spatial-base'
+      '--cx-spinner-animation-time': '*cx-spinner-animation-time'
+      '--cx-spinner-border-width': '*cx-spinner-border-width'
+      '--cx-spinner-primary-color': '*cx-spinner-primary-color'
+      '--cx-spinner-radius': '*cx-spinner-radius'
+      '--cx-spinner-secondary-color': '*cx-spinner-secondary-color'
+      '--cx-spinner-size': '*cx-spinner-size'
+      '--cx-transition-duration': '*cx-transition-duration'
+      '--cx-visual-focus-width': '*cx-visual-focus-width'
